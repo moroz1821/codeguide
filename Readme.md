@@ -33,7 +33,7 @@ $ npm test
 
 Для проверки скриптов используется [ESLint](http://eslint.org).
 
-## Нашли ошибку?
+## Еще нужно потрудиться, нужно поискать
 
 Пожалуйста, [создайте тикет](https://github.com/htmlacademy/codeguide/issues).
 
